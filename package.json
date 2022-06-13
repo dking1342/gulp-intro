@@ -1,0 +1,22 @@
+{
+  "name": "gulp-1",
+  "version": "1.0.0",
+  "description": "An intro into gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dking1342/gulp-intro.git"
+  },
+  "author": "David King",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dking1342/gulp-intro/issues"
+  },
+  "homepage": "https://github.com/dking1342/gulp-intro#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
