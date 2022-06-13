@@ -1,0 +1,26 @@
+{
+  "name": "gulp-3",
+  "version": "1.0.0",
+  "description": "Intro into Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dking1342/gulp-intro.git"
+  },
+  "author": "David",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dking1342/gulp-intro/issues"
+  },
+  "homepage": "https://github.com/dking1342/gulp-intro#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.42",
+    "gulp": "^4.0.2",
+    "ts-node": "^10.8.1",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.3"
+  }
+}
